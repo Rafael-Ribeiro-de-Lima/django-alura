@@ -1,6 +1,6 @@
 # Alura Space - Projeto Django
 
-Este é o repositório oficial do projeto Alura Space, desenvolvido como parte do curso de Django da Alura. O Alura Space é uma aplicação simples para aprendizado do framework Django.
+Este é o repositório de estudos do projeto Alura Space, desenvolvido como parte do curso de Django da Alura. O Alura Space é uma aplicação simples para aprendizado do framework Django.
 
 ## Como executar o projeto em outro computador
 
