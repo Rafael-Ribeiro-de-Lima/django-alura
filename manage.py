@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 import os
 import sys
 
